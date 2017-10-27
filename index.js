@@ -14,4 +14,4 @@ if (currentAge.isInteger()){
   return true;
 } else {
   return false;
-}
+};
