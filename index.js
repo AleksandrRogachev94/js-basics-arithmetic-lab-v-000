@@ -16,3 +16,5 @@ if (Number.isInteger(currentAge)){
 } else {
   ageIsValid = false;
 }
+
+let randomNumber = Math.random() * 19;
