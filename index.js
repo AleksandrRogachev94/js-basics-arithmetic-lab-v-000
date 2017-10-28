@@ -19,3 +19,4 @@ if (Number.isInteger(currentAge)){
 
 let randomNumber = Math.random() * 19;
 let randomInteger = Math.floor(randomNumber);
+let randomUserID = 1000000000 + randomInteger;
